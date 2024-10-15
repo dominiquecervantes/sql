@@ -1,2 +1,2 @@
 # sql
-my sql queries are gluten free (and free to use).
+my sql queries are gluten free (they're also free to use).
